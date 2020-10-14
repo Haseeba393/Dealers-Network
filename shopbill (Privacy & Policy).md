@@ -8,7 +8,7 @@
 
 <h2>Consent</h2>
 
-<p>By using our application, you hereby consent to our Privacy Policy and agree to its terms. For our Terms and Conditions, please visit the <a href="https://github.com/Haseeba393/Dealers-Network/blob/main/Terms-Conditions.md">Terms & Conditions</a>.</p>
+<p>By using our application, you hereby consent to our Privacy Policy and agree to its terms. For our Terms and Conditions, please visit the <a href="https://github.com/Haseeba393/Dealers-Network/blob/main/Shopbill%20(Terms%20and%20conditions).md">Terms & Conditions</a>.</p>
 
 <h2>Information we collect</h2>
 
