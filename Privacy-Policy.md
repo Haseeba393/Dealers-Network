@@ -1,10 +1,10 @@
-<h1>Privacy Policy for Dealers Network</h1>
+<h1>Privacy Policy for Grand Dealer Portal</h1>
 
-<p>At Dealers Network one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that are collected and recorded by Dealers Network and how we use it.</p>
+<p>At Grand Dealer Portal one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that are collected and recorded by Grand Dealer Portal and how we use it.</p>
 
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
-<p>This Privacy Policy applies only to our online activities and is valid for visitors to our application with regards to the information that they shared and/or collect in Dealers Network. This policy is not applicable to any information collected offline or via channels other than this application.</p>
+<p>This Privacy Policy applies only to our online activities and is valid for visitors to our application with regards to the information that they shared and/or collect in Grand Dealer Portal. This policy is not applicable to any information collected offline or via channels other than this application.</p>
 
 <h2>Consent</h2>
 
@@ -53,4 +53,4 @@
 
 <p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
 
-<p>Dealers Network does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+<p>Grand Dealer Portal does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
